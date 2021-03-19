@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "FirstThreatModel",
+    "owner": "ILvCySec",
+    "description": "High Level System Description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Fist Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "John"
+  }
+}
